@@ -1,2 +1,2 @@
-# Intersession_ITM
-Intersession_ITM_Activity
+# Set-up_GitHub
+Set-up_GitHub_Activity
